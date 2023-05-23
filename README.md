@@ -1,4 +1,4 @@
-### Hi, I'm wangrenmin 👋
+### Hi, I'm WangRenMin 👋
 
 <!--
 **wanghui096/wanghui096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
